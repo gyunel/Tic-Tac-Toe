@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&family=Playfair+Display:ital,wght@1,900&display=swap');
+*{
+border-spacing: 0px;
+}
+td{
+	 width: 100px;
+	height: 100px;
+}
+.for-td{
+border-right: 2px solid  #cc6600;
+}
+.c2{
+border-bottom: 2px solid  #cc6600;
+}
+.text{
+font-family: 'Kalam', cursive;
+font-family: 'Playfair Display', serif;
+font-weight: 900px;
+color: #804000;
+}
